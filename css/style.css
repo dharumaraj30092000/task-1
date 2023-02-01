@@ -1,0 +1,49 @@
+*{
+	margin-top:0%;
+	margin-left:0%;
+}
+
+section {
+	background: url("../image/hero-bg.jpg") no-repeat;
+	background-size:cover;
+	color:#000000;
+}
+
+.div_margin {
+	padding-top: 220px;
+    padding-bottom:400px;
+	padding-left:4%;
+	font-family: raleway,sans serif;
+	font-size:30px;
+}
+}
+.medilab_class {
+	font-family: raleway,sans serif;
+	font-size:40px;
+	text-transform:uppercase;
+	padding-left:12%;
+}
+.get_started_button {
+	color: #fff;
+	padding:12px 30px;
+	background: #348ed5;
+	border-radius: 50px;
+	border: none;
+	font-size:18px;
+	text-transform:uppercase;
+}
+.why_choose {
+	padding:50px;
+	background:#348ed5;
+	border:none;
+	border-radius:7px;
+	color:white;
+	font-size:30px;
+	font-family: raleway,sans serif;
+}
+.button {
+	padding-top:10%;
+}
+.button1 {
+	padding-top:2%;
+}
